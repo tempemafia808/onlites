@@ -1,0 +1,693 @@
+{
+  "Abajournal.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io",
+    "domain": "abajournal.com"
+  },
+  "Africaintelligence.fr": {
+    "add_ext_link": "div#poool-widget,div#landing|div.landing",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "africaintelligence.fr"
+  },
+  "Arkansasonline.com": {
+    "domain": "arkansasonline.com"
+  },
+  "Asiamoney.com": {
+    "allow_cookies": 1,
+    "domain": "asiamoney.com",
+    "useragent": "googlebot"
+  },
+  "Bauernzeitung.ch": {
+    "allow_cookies": 1,
+    "domain": "bauernzeitung.ch",
+    "useragent": "googlebot"
+  },
+  "Bild.de": {
+    "add_ext_link": "div.offer-module|div.article-body",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "bild.de"
+  },
+  "Bisnisindonesia.id": {
+    "allow_cookies": 1,
+    "domain": "bisnisindonesia.id",
+    "ld_json_next": "div.bottom-10|article"
+  },
+  "Bizwest.com": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"div.fp-paywall\", \"rm_elem\":1, \"elems\":[{\"cond\":\"div.fp-content\", \"rm_attrib\":\"class\"}]}]",
+    "domain": "bizwest.com"
+  },
+  "Brainly.com": {
+    "domain": "brainly.com"
+  },
+  "Brandonsun.com": {
+    "allow_cookies": 1,
+    "block_regex": "account\\.brandonsun\\.com\\/api\\/v\\d\\/auth\\/identify",
+    "domain": "brandonsun.com"
+  },
+  "Brusselstimes.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io\\/xbuilder\\/experience\\/execute",
+    "domain": "brusselstimes.com"
+  },
+  "Bt.no": {
+    "allow_cookies": 1,
+    "domain": "bt.no",
+    "useragent": "facebookbot"
+  },
+  "Businessinsider.de": {
+    "add_ext_link": "div.piano-article__paywall|div.piano-article__content>p",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "businessinsider.de"
+  },
+  "Businessnews.com.au": {
+    "allow_cookies": 1,
+    "domain": "businessnews.com.au",
+    "useragent": "googlebot"
+  },
+  "Capital.bg": {
+    "allow_cookies": 1,
+    "domain": "capital.bg",
+    "useragent": "googlebot"
+  },
+  "Chicago.suntimes.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "chicago.suntimes.com"
+  },
+  "Christianitytoday.com": {
+    "allow_cookies": 1,
+    "domain": "christianitytoday.com",
+    "useragent": "googlebot"
+  },
+  "Columbian.com": {
+    "allow_cookies": 1,
+    "block_regex": "loader-cdn\\.azureedge\\.net",
+    "domain": "columbian.com"
+  },
+  "Connexionfrance.com": {
+    "domain": "connexionfrance.com"
+  },
+  "Correiodopovo.com.br": {
+    "allow_cookies": 1,
+    "block_regex": "paywall\\.correiodopovo\\.com\\.br",
+    "domain": "correiodopovo.com.br"
+  },
+  "Dailyherald.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "dailyherald.com"
+  },
+  "Deutsche-wirtschafts-nachrichten.de": {
+    "add_ext_link": "div#article-teaser-blocks|div.teaser_extra",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "deutsche-wirtschafts-nachrichten.de"
+  },
+  "Diabeteshealth.co.in": {
+    "allow_cookies": 1,
+    "domain": "diabeteshealth.co.in",
+    "ld_json": "div#paywall-banner|div[class^='text-story-m_gap']"
+  },
+  "Diariodenavarra.es": {
+    "allow_cookies": 1,
+    "amp_redirect": "div#paywallMessage",
+    "amp_unhide": 1,
+    "cs_code": "[{\"cond\":\"section.txt\",\"rm_elem\":1}]",
+    "domain": "diariodenavarra.es"
+  },
+  "Die-glocke.de": {
+    "add_ext_link": "div.cardPw|div.mainContent",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "die-glocke.de"
+  },
+  "Doorbraak.be": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"div#aanbod-nieuwe-abonnee\",\"rm_elem\":1,\"elems\":[{\"cond\":\"div#excerpt-inhoud-abo\",\"rm_elem\":1},{\"cond\":\"div#plus-inhoud\",\"rm_attrib\":\"style\"}]}]",
+    "domain": "doorbraak.be"
+  },
+  "Edweek.org": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.pelcro\\.com",
+    "domain": "edweek.org"
+  },
+  "Elfinancierocr.com": {
+    "allow_cookies": 1,
+    "block_regex": "(\\.tinypass\\.com|cdn\\.ampproject\\.org\\/v\\d\\/amp-subscriptions-.+\\.js)",
+    "cs_code": "[{\"cond\":\"div.article-body-wrapper__styled[style]\",\"rm_attrib\":\"style\"},{\"cond\":\"div.post\",\"rm_elem\":1}]",
+    "domain": "elfinancierocr.com"
+  },
+  "Eluniversal.com.mx": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "eluniversal.com.mx"
+  },
+  "Eviemagazine.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.eviemagazine\\.com\\/api\\/trpc\\/post\\.paywall",
+    "domain": "eviemagazine.com"
+  },
+  "Fastcompany.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "fastcompany.com"
+  },
+  "Finansavisen.no": {
+    "allow_cookies": 1,
+    "domain": "finansavisen.no",
+    "useragent": "googlebot"
+  },
+  "Finanz-szene.de": {
+    "allow_cookies": 1,
+    "domain": "finanz-szene.de",
+    "useragent": "googlebot"
+  },
+  "Freitag.de": {
+    "allow_cookies": 1,
+    "domain": "freitag.de",
+    "ld_json": "div.qa-paywall|div#x-article-text"
+  },
+  "Frieze.com": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.pelcro\\.com",
+    "domain": "frieze.com"
+  },
+  "Gazetaprawna.pl": {
+    "allow_cookies": 1,
+    "amp_redirect": "div.displayMode_simplePaywall",
+    "domain": "gazetaprawna.pl",
+    "ld_json": "div.simplePaywall|article"
+  },
+  "Gazette.com": {
+    "allow_cookies": 1,
+    "block_regex": "loader-cdn\\.azureedge\\.net",
+    "domain": "gazette.com"
+  },
+  "Gp.se": {
+    "add_ext_link": "div.c-premium-lockscreen__subscribe|article",
+    "add_ext_link_type": "archive.is",
+    "allow_cookies": 1,
+    "domain": "gp.se"
+  },
+  "Gplanet.co.il": {
+    "allow_cookies": 1,
+    "domain": "gplanet.co.il",
+    "ld_json": "div.subscription-form|div.content-inner"
+  },
+  "Handelsblatt.com": {
+    "add_ext_link": "div.temp-paywall2|div.vhb-article-area--read>p",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "handelsblatt.com"
+  },
+  "Hartenergy.com": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.pelcro\\.com",
+    "domain": "hartenergy.com"
+  },
+  "Hbook.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.hbook\\.com\\/.+\\/js\\/metering\\.js",
+    "domain": "hbook.com"
+  },
+  "Heidi.news": {
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io",
+    "domain": "heidi.news",
+    "useragent": "googlebot"
+  },
+  "Heraldo.es": {
+    "allow_cookies": 1,
+    "block_js_inline": "\\.heraldo\\.es\\/noticias",
+    "domain": "heraldo.es"
+  },
+  "Heraldscotland.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "heraldscotland.com"
+  },
+  "Huffingtonpost.it": {
+    "add_ext_link": "iframe#__limio_frame|div.main-content",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "huffingtonpost.it"
+  },
+  "Ilglobo.com": {
+    "allow_cookies": 1,
+    "domain": "ilglobo.com",
+    "useragent": "googlebot"
+  },
+  "Ilsecoloxix.it": {
+    "add_ext_link": "iframe#__limio_frame|div.story__wrapper",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "ilsecoloxix.it"
+  },
+  "Intelligenceonline.com": {
+    "add_ext_link": "div#poool-widget,div#landing|div.landing",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "intelligenceonline.com"
+  },
+  "Intelligenceonline.fr": {
+    "add_ext_link": "div#poool-widget,div#landing|div.landing",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "intelligenceonline.fr"
+  },
+  "Interestingengineering.com": {
+    "allow_cookies": 1,
+    "domain": "interestingengineering.com",
+    "useragent": "googlebot"
+  },
+  "Internationalepolitik.de": {
+    "allow_cookies": 1,
+    "domain": "internationalepolitik.de"
+  },
+  "Internationaltaxreview.com": {
+    "allow_cookies": 1,
+    "domain": "internationaltaxreview.com",
+    "ld_google_webcache": "div.paywall|div.ArticlePage-articleContainer"
+  },
+  "Investmentweek.co.uk": {
+    "allow_cookies": 1,
+    "domain": "investmentweek.co.uk",
+    "ld_google_webcache": "div#d-wrapper|div.article-content"
+  },
+  "Irishexaminer.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.irishexaminer\\.com\\/pu_examiner\\/scripts\\/engage",
+    "domain": "irishexaminer.com"
+  },
+  "Irishnews.com (not premium)": {
+    "block_regex": "\\.irishnews\\.com\\/.+\\/js\\/mpppaywall\\.js",
+    "domain": "irishnews.com"
+  },
+  "Jeuneafrique.com": {
+    "add_ext_link": "div#poool-widget|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "jeuneafrique.com"
+  },
+  "Kapital.no": {
+    "allow_cookies": 1,
+    "domain": "kapital.no",
+    "useragent": "googlebot"
+  },
+  "Lagazettedescommunes.com": {
+    "allow_cookies": 1,
+    "domain": "lagazettedescommunes.com",
+    "useragent": "googlebot"
+  },
+  "Lalettrea.fr": {
+    "add_ext_link": "div#poool-widget,div#landing|div.landing",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "lalettrea.fr"
+  },
+  "Lastampa.it": {
+    "add_ext_link": "iframe#__limio_frame|header",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "lastampa.it"
+  },
+  "Lavozdegalicia.es": {
+    "add_ext_link": "div#paywall_box|div.date",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "lavozdegalicia.es"
+  },
+  "Law360.com": {
+    "add_ext_link": "div.feature-box|div#teaser",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "block_regex": "\\.law360news\\.com\\/assets\\/www\\/free_trial_modal-.+\\.js",
+    "domain": "law360.com"
+  },
+  "Lemonde.fr": {
+    "add_ext_link": "section.paywall|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "lemonde.fr"
+  },
+  "Libraryjournal.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.libraryjournal.com\\.com\\/.+\\/js\\/metering\\.js",
+    "domain": "libraryjournal.com"
+  },
+  "Limesonline.com": {
+    "add_ext_link": "div#paywall|div.sommario",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "limesonline.com"
+  },
+  "Lindipendente.online": {
+    "allow_cookies": 1,
+    "domain": "lindipendente.online",
+    "useragent": "googlebot"
+  },
+  "Lsa-conso.fr": {
+    "allow_cookies": 1,
+    "domain": "lsa-conso.fr",
+    "useragent": "googlebot"
+  },
+  "Lyrik.fr": {
+    "allow_cookies": 1,
+    "block_regex": "\\.qiota\\.com",
+    "domain": "lyrik.fr"
+  },
+  "Mailplus.co.uk": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "mailplus.co.uk"
+  },
+  "Makorrishon.co.il": {
+    "allow_cookies": 1,
+    "domain": "makorrishon.co.il",
+    "useragent": "googlebot"
+  },
+  "Manager-magazin.de": {
+    "add_ext_link": "div[data-area='paywall']|div[data-area='body']",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "manager-magazin.de"
+  },
+  "Manilatimes.net": {
+    "allow_cookies": 1,
+    "domain": "manilatimes.net",
+    "ld_json": "div.website-packages|div.article-body-content"
+  },
+  "Marketscreener.com (only free articles)": {
+    "domain": "marketscreener.com"
+  },
+  "Mediahuis België": {
+    "add_ext_link": "div[data-cj-root=\"subscription-wall\"]|div.intro,span[data-testid=\"article-author\"]",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "block_regex": "\\.be\\/extra\\/shared\\/user\\/user\\.js",
+    "domain": "###_be_mediahuis"
+  },
+  "Mediapart.fr": {
+    "add_ext_link": "div#paywall_no_variance|main",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "mediapart.fr"
+  },
+  "Medpagetoday.com": {
+    "allow_cookies": 1,
+    "domain": "medpagetoday.com",
+    "remove_cookies": 1
+  },
+  "Milesplit.com": {
+    "allow_cookies": 1,
+    "domain": "milesplit.com",
+    "useragent": "facebookbot"
+  },
+  "Mining-journal.com": {
+    "allow_cookies": 1,
+    "domain": "mining-journal.com",
+    "ld_json": "div.article-teaser|div.article-content>p"
+  },
+  "Nationalobserver.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "nationalobserver.com"
+  },
+  "Newbostonpost.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\/newbostonpost\\.com\\/.+\\/paywall\\/js\\/main\\.js",
+    "domain": "newbostonpost.com"
+  },
+  "Newspicks.com": {
+    "allow_cookies": 1,
+    "domain": "newspicks.com",
+    "useragent": "googlebot"
+  },
+  "Nnn.de": {
+    "allow_cookies": 1,
+    "domain": "nnn.de",
+    "useragent": "googlebot"
+  },
+  "Nordsee-zeitung.de": {
+    "allow_cookies": 1,
+    "domain": "nordsee-zeitung.de",
+    "ld_google_webcache": "div.UserLoggedInContainer|article"
+  },
+  "Nu.nl": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"div.login-wall\",\"rm_elem\":1,\"elems\":[{\"cond\":\"div.authorized-content\",\"rm_class\":\"authorized-content\"}]}]",
+    "domain": "nu.nl"
+  },
+  "Nv.ua": {
+    "allow_cookies": 1,
+    "amp_redirect": "div[id^='media_paywall']",
+    "domain": "nv.ua"
+  },
+  "Odt.co.nz": {
+    "allow_cookies": 1,
+    "block_regex": "my\\.odt\\.co\\.nz\\/bwtw\\/api\\/TheWall",
+    "domain": "odt.co.nz"
+  },
+  "Onet.pl": {
+    "allow_cookies": 1,
+    "domain": "onet.pl",
+    "remove_cookies": 1
+  },
+  "Ouest-france.fr": {
+    "add_ext_link": "div.mur|div#article-detail",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "ouest-france.fr"
+  },
+  "Oz-online.de": {
+    "allow_cookies": 1,
+    "domain": "oz-online.de",
+    "ld_json": "div.paywall|div.pointer-events-none"
+  },
+  "Physicsworld.com": {
+    "domain": "physicsworld.com"
+  },
+  "Politiken.dk": {
+    "add_ext_link": "div.stopsign|div.article__body",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "politiken.dk"
+  },
+  "Pressandjournal.co.uk": {
+    "allow_cookies": 1,
+    "domain": "pressandjournal.co.uk",
+    "useragent": "googlebot"
+  },
+  "Pressherald.com": {
+    "allow_cookies": 1,
+    "block_regex": "loader-cdn\\.azureedge\\.net",
+    "domain": "pressherald.com"
+  },
+  "Puck.news": {
+    "add_ext_link": "div.paywall|div.entry-content",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"body.paywall-active\", \"rm_class\":\"paywall-active\"},{\"cond\":\"article[style]\", \"rm_attrib\":\"style\"}]",
+    "domain": "puck.news"
+  },
+  "Quickmath.com": {
+    "domain": "quickmath.com"
+  },
+  "Repubblica.it": {
+    "add_ext_link": "iframe#__limio_frame|div.story__wrapper",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "repubblica.it"
+  },
+  "Reviewjournal.com": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.matheranalytics\\.com",
+    "domain": "reviewjournal.com"
+  },
+  "Risk.net": {
+    "add_ext_link": "div.barrier-block|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "risk.net"
+  },
+  "Rp_aachen_medien": {
+    "add_ext_link": "div.paid-content,span.park-widget|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "###_de_rp_aachen_medien"
+  },
+  "Saechsische.de": {
+    "add_ext_link": "div#piano-inline|div.article-detail-content>p",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "saechsische.de"
+  },
+  "Schwaebische-post.de": {
+    "allow_cookies": 1,
+    "block_regex": "\\.schwaebische-post\\.de\\/sub\\/js\\/pc-offer-west\\.js",
+    "domain": "schwaebische-post.de"
+  },
+  "Siliconrepublic.com": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.pelcro\\.com",
+    "domain": "siliconrepublic.com"
+  },
+  "Slj.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.slj\\.com\\/.+\\/js\\/metering\\.js",
+    "domain": "slj.com"
+  },
+  "Sltrib.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "sltrib.com"
+  },
+  "Spectator.org": {
+    "allow_cookies": 1,
+    "block_regex": "\\/spectator\\.org\\/.+\\/evolok",
+    "domain": "spectator.org"
+  },
+  "Speld.nl": {
+    "domain": "speld.nl"
+  },
+  "Splainer.in": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\".subscription-prompt\",\"rm_elem\":1,\"elems\":[{\"cond\":\".hide-section\",\"rm_class\":\"hide-section\"}]}]",
+    "domain": "splainer.in"
+  },
+  "Spokesman.com": {
+    "allow_cookies": 1,
+    "block_regex": "loader-cdn\\.azureedge\\.net",
+    "domain": "spokesman.com"
+  },
+  "Sportsbusinessjournal.com": {
+    "domain": "sportsbusinessjournal.com"
+  },
+  "Stateaffairs.com": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"div.c-memberships-message\", \"rm_elem\":1, \"elems\":[{\"cond\":\"body.access-restricted\",\"rm_class\":\"access-restricted\"}]}]",
+    "domain": "stateaffairs.com"
+  },
+  "Supchina.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "supchina.com"
+  },
+  "Swarajyamag.com": {
+    "amp_redirect": "div#story-notification",
+    "domain": "swarajyamag.com"
+  },
+  "Tamedia.ch": {
+    "add_ext_link": "div#piano-premium>div|article p>span",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io\\/xbuilder\\/experience\\/execute",
+    "domain": "###_ch_tamedia"
+  },
+  "The-past.com": {
+    "domain": "the-past.com"
+  },
+  "Thecaterer.com": {
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\".locked-content\",\"rm_attrib\":\"class\"}]",
+    "domain": "thecaterer.com",
+    "useragent": "googlebot"
+  },
+  "Thecourier.co.uk": {
+    "allow_cookies": 1,
+    "domain": "thecourier.co.uk",
+    "useragent": "googlebot"
+  },
+  "Theday.com": {
+    "allow_cookies": 1,
+    "block_regex": "js\\.pelcro\\.com",
+    "domain": "theday.com"
+  },
+  "Theepochtimes.com": {
+    "allow_cookies": 1,
+    "block_regex": "subs\\.theepochtimes\\.com\\/lib\\/api\\.bundle\\.js",
+    "domain": "theepochtimes.com"
+  },
+  "Thefashionlaw.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.thefashionlaw\\.com\\/evolok\\/.+\\/ev-widgets\\.min\\.js",
+    "domain": "thefashionlaw.com"
+  },
+  "Theinformation.com": {
+    "add_ext_link": "div[data-paywall]|div.locked",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "theinformation.com"
+  },
+  "Themonthly.com.au": {
+    "domain": "themonthly.com.au"
+  },
+  "Thenational.scot": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "thenational.scot"
+  },
+  "Thestage.co.uk": {
+    "allow_cookies": 1,
+    "domain": "thestage.co.uk",
+    "ld_google_webcache": "div#ao-MeteringDNAllow|div[id^='aos-FeatureArticle']"
+  },
+  "Theweek.com": {
+    "allow_cookies": 1,
+    "domain": "theweek.com",
+    "useragent": "googlebot"
+  },
+  "Thewirechina.com": {
+    "add_ext_link": "div.leaky_paywall_message_wrap|article",
+    "add_ext_link_type": "archive.is",
+    "allow_cookies": 1,
+    "domain": "thewirechina.com"
+  },
+  "Tijorifinance.com": {
+    "allow_cookies": 1,
+    "domain": "tijorifinance.com",
+    "useragent": "googlebot"
+  },
+  "Toledoblade.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "toledoblade.com"
+  },
+  "Toolkits.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.toolkits\\.com\\/app\\/js\\/api\\.min\\.js",
+    "domain": "toolkits.com"
+  },
+  "Washingtontimes.com": {
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "domain": "washingtontimes.com"
+  },
+  "Welt.de": {
+    "add_ext_link": "div.contains_walled_content|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "welt.de"
+  },
+  "Wiwo.de": {
+    "add_ext_link": "div.o-paywall|div.o-article__element>p",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "wiwo.de"
+  },
+  "Wuv.de": {
+    "allow_cookies": 1,
+    "domain": "wuv.de",
+    "ld_google_webcache": "div.paid-article|div.font-serif"
+  },
+  "Zeit.de": {
+    "add_ext_link": "aside#paywall|article",
+    "add_ext_link_type": "google_search_tool",
+    "allow_cookies": 1,
+    "domain": "zeit.de"
+  }
+}

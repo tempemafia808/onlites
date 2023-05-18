@@ -1,0 +1,56 @@
+{
+  "Adweek (free articles only)": {
+    "domain": "adweek.com",
+    "useragent": "googlebot"
+  },
+  "Dagens Nyheter (link to archive.is)": {
+    "domain": "dn.se",
+    "allow_cookies": 1,
+    "add_ext_link": "div.esi-paywall|div.article__content",
+    "add_ext_link_type": "archive.is"
+  },
+  "El Español": {
+    "domain": "elespanol.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\.tinypass\\.com\\/|cdn\\.ampproject\\.org\\/v\\d\\/amp-(access|subscriptions)-.+\\.js)"
+  },
+  "El Mercurio (+ regional/opt-in to custom sites)": {
+    "domain": "elmercurio.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.(elmercurio\\.com|emol\\.cl)\\/(.+\\/)?js\\/(.+\\/)?(modal|merPramV\\d|PramModal\\.min)\\.js",
+    "useragent": "facebookbot"
+  },
+  "El Mercurio (not Inversiones; + regional/opt-in to custom sites)": {
+    "domain": "elmercurio.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.(elmercurio\\.com|emol\\.cl)\\/(.+\\/)?js\\/(.+\\/)?(modal|merPramV\\d|PramModal\\.min)\\.js",
+    "useragent": "facebookbot"
+  },
+  "Il Messaggero (+ regional)": {
+    "domain": "###_it_ilmessaggero",
+    "group": [
+      "corriereadriatico.it",
+      "ilgazzettino.it",
+      "ilmattino.it",
+      "ilmessaggero.it",
+      "quotidianodipuglia.it"
+    ],
+    "allow_cookies": 1,
+    "block_regex": "(\\.(cedscdn|cedsdigital)\\.it\\/.+\\/PaywallMeter\\.js|cdn\\.ampproject\\.org\\/v\\d\\/amp-(access|consent|subscriptions)-.+\\.(m)?js)"
+  },
+  "La Vanguardia": {
+    "domain": "lavanguardia.com",
+    "allow_cookies": 1,
+    "block_regex": "\\/ev\\.lavanguardia\\.com"
+  },
+  "Monocle": {
+    "domain": "monocle.com",
+    "useragent": "googlebot"
+  },
+  "The New York Times": {
+    "domain": "nytimes.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\.nytimes\\.com\\/meter\\.js|mwcm\\.nyt\\.com\\/.+\\.js|cooking\\.nytimes\\.com\\/api\\/.+\\/access)",
+    "useragent": "googlebot"
+  }
+}
